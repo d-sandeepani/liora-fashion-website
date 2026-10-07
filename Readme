@@ -1,6 +1,6 @@
-# LIORA — Fashion E-Commerce Website
+LIORA — Fashion E-Commerce Website
 
-## 📌 Project Overview
+📌 Project Overview
 
 LIORA is a fashion-focused web application developed as my
 Diploma Main Project in Information Technology.
@@ -8,7 +8,7 @@ Diploma Main Project in Information Technology.
 The project was created to apply practical web development,
 responsive design and database development concepts.
 
-## 🛠️ Technologies
+🛠️ Technologies
 
 - HTML
 - CSS
@@ -16,7 +16,7 @@ responsive design and database development concepts.
 - PHP
 - MySQL
 
-## ✨ Features
+✨ Features
 
 - Responsive user interface
 - Fashion product presentation
@@ -25,13 +25,13 @@ responsive design and database development concepts.
 - PHP-based functionality
 - MySQL database integration
 
-## 🎯 Project Goals
+🎯 Project Goals
 
 The main goal of the project was to develop a practical
 fashion web application while applying concepts learned
 during my Diploma in Information Technology.
 
-## 📱 Responsive Design
+📱 Responsive Design
 
 The interface was designed to work across:
 
@@ -39,20 +39,20 @@ The interface was designed to work across:
 - Tablet
 - Mobile
 
-## 🗄️ Database
+ 🗄️ Database
 
 The project uses MySQL for database-related functionality.
 
-## 🧪 Testing
+🧪 Testing
 
 Testing was performed during development to identify
 interface, functionality and responsive-design issues.
 
-## 📸 Screenshots
+ 📸 Screenshots
 
 Screenshots of the application are included below.
 
-## 🚀 Running the Project
+ 🚀 Running the Project
 
 1. Install a local PHP development environment.
 2. Create the required MySQL database.
@@ -61,7 +61,7 @@ Screenshots of the application are included below.
 5. Start the PHP server.
 6. Open the project in a browser.
 
-## 📚 Learning Outcomes
+ 📚 Learning Outcomes
 
 Through this project I gained practical experience in:
 
@@ -79,8 +79,7 @@ Live demo: [https://liora-fashion.rf.gd/ ]
 Portfolio: [https://d-sandeepani.github.io/Portfolio/]
 
 
-
-## 👩‍💻 Author
+👩‍💻 Author
 
 Dilki Sandeepani
 
